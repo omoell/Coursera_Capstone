@@ -1,0 +1,7 @@
+Column	Translation	Description
+Quelle	Source	Name of the city department that has created the data.
+Stand	Status	Date of the data.
+Stadtbezirk	Department	ID of the department.
+Stadtteil	Neighborhood	ID of the neighborhood.
+Name	Name	Name of the neighborhood.
+geometry	geometry	Description of the borders of each neighborhood as polygon geo coordinates.
