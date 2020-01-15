@@ -1,4 +1,7 @@
 Column	Translation	Description
-Stadtteilnummer	Neighborhood ID	ID of the neighborhood.
-Stadtteilname	Neighborhood	Name of the neighborhood.
-2012-2018	2012-2018	Size of population per neighborhood at the end of the year.
+OBJEKT	Object	Details not available.
+STADTBEZ	Department	ID of the Department.
+Sozialraum7	Social Area 7	Combined ID of Social Area ID and Neighborhood ID.
+Sozialraum4	Social Area	ID of the Social Area.
+Quelle	Source	Name of the city department that has created the data.
+geometry	geometry	Description of the borders of each neighborhood as polygon geo coordinates.

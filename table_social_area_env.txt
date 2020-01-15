@@ -1,4 +1,8 @@
 Column	Translation	Description
-Stadtteilnummer	Neighborhood ID	ID of the neighborhood.
-Stadtteilname	Neighborhood	Name of the neighborhood.
-2012-2018	2012-2018	Size of population per neighborhood at the end of the year.
+Stadtbezirk	Department	ID of the department.
+Sozialraum	Social Area	ID of the social area.
+Fläche in ha	Area in ha	Size of area in hectare.
+Einwohner je km2	Population per sqkm	Population per square kilometre.
+Wohnfläche Anteil in %	Perc. of living space	Percentage of areas with living spaces.
+Grünfläche Anteil in %	Perc. of green space	Percentage of areas with green spaces.
+Von Verkehrslärm betroffene Bevölkerung in %	Perc. affected by traffic noise	Percentage of population affected by traffic noise.
