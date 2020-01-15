@@ -1,0 +1,8 @@
+Column	Translation	Description
+Neighborhood ID	Neighborhood ID	ID of the neighborhood.
+Neighborhood Latitude	Neighborhood Latitude	Latitude of the centre of the neighborhood.
+Neighborhood Longitude	Neighborhood Longitude	Longitude of the centre of the neighborhood.
+Venue	Venue	Name of a venue recommended by foursquare.
+Venue Latitude	Venue Latitude	Latitude of the venue.
+Venue Longitude	Venue Longitude	Longitude of the venue.
+Venue Category ID	Venue Category ID	ID of the category that has been assigned to the venue.
