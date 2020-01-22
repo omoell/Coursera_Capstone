@@ -1,0 +1,6 @@
+Cluster	Description
+0	Lot of stores and businesses - living space and green space only make for about 35% of the overall space. Top venues do include only very minor public / cultural sights.
+1	Very green, Beaches and Sport Areas. Only few venues for going out, such as bars or restaurants.<br>
+2	Very crowded, most dense population per sqkm and highest share of living space, lot's of Food & Drink and Bar Venues
+3	 Very noisy, also lots of stores and business, such as Hotels
+4	 Around two thirds of area is made of living and green space, while medium density of population per sqkm - most likely houses and flats with more room and less small than in 2, lot's of food & drink and italian restaurants, but also natural sights

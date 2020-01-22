@@ -1,0 +1,1 @@
+{"sql":"SELECT t.*\nFROM \n{dkan_datastore_41176} t\nLIMIT 200 OFFSET 0","error":{"message":"Caught exception: Error parsing CSV: {\n    \"Message\": \"Invalid Input QUOTE\",\n    \"Chunk\": \"Stadtbezirk;Sozialraum;\\\"Fl\\u00e4che \",\n    \"Records\": [],\n    \"Fields\": [],\n    \"Field\": \"Stadtbezirk;Sozialraum;\"\n}"}}
